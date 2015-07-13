@@ -1,0 +1,28 @@
+body {
+	font-family: Arial;
+	width: 65%;
+	margin: 0 auto;
+}
+
+header {
+	border: 1px solid black;
+}
+
+sidebar {
+	border: 1px solid red;
+	float: right;
+	width: 30%;
+}
+
+section {
+	border: 1px solid green;
+	font-family: Tahoma;
+}
+
+footer {
+	border: 1px solid blue;
+}
+
+.fav {
+	background-color: orange;
+}
