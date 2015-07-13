@@ -6,17 +6,19 @@ body {
 
 header {
 	border: 1px solid black;
+	height: 50px;
 }
 
-sidebar {
-	border: 1px solid red;
+aside {
 	float: right;
-	width: 30%;
+	border: 1px solid red;
+	display: flex;
 }
 
 section {
 	border: 1px solid green;
 	font-family: Tahoma;
+	overflow: scroll;
 }
 
 footer {
