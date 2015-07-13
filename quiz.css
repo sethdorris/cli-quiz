@@ -1,0 +1,16 @@
+header {
+	border: 1px solid black;
+}
+
+sidebar {
+	border: 1px solid red;
+	float: right;
+}
+
+section {
+	border: 1px solid green;
+}
+
+footer {
+	border: 1px solid blue;
+}
